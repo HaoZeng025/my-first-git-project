@@ -5,3 +5,7 @@ This is my first GitHub project.
 Let's learn Git together!
 
 Try add sth to check git status.
+
+in feature-intro:
+## why I created this project?
+Cuz. I want to learn Git step-by-step and become a master of version control!
