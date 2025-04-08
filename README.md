@@ -1,3 +1,4 @@
+This is teamate's version. "# my-first-git-project" 
 This Hao's version. "# my-first-git-project" 
 
 Hi I'm Hao.
