@@ -1,4 +1,4 @@
-"# my-first-git-project" 
+This is teamate's version. "# my-first-git-project" 
 
 Hi I'm Hao.
 This is my first GitHub project.
